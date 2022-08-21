@@ -59,7 +59,7 @@ const App = () => {
   };
 
   return (
-    <div className="App">
+    <div className="app">
       <header className="App-header">
         {showScore ? (
           <div className="score-section">
